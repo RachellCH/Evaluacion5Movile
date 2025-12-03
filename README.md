@@ -13,3 +13,6 @@ git checkout -b nombre-de-la-rama-para-trabajar
 git add .
 git commit -m "Descripción de los cambios"
 git push origin nombre-de-la-rama-para-la-feature
+
+3-Actualizan sus ramas con:
+- Git → Pull
