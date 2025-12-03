@@ -2,6 +2,7 @@
 Creacion de un proyecto de comida rapida
 
 #Pasos a seguir:
+
 Para empezar a trabajar,solo se necesitará clonar el repositorio:
 git clone https://github.com/TuUsuario/Evaluacion5Movile.git
 
