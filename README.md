@@ -6,7 +6,7 @@ Para empezar a trabajar,solo se necesitará clonar el repositorio:
 git clone https://github.com/TuUsuario/Evaluacion5Movile.git
 
 1-Crear una nueva rama para sus cambios:
-git checkout -b nombre-de-la-rama-para-la-feature
+git checkout -b nombre-de-la-rama-para-trabajar
 
 2-Hacer cambios, confirmarlos y subirlos:
 git add .
